@@ -1,0 +1,13 @@
+{
+    "ReviewTimeStoperYears":4,
+    "NumberOfProcess":1,
+    "ScrollErrorPath":"./ErrorLogging/ScrollError",
+    "MainError":"./ErrorLogging/MainError",
+    "ErrorLogsFile":"./ErrorLogging/error_logs.txt",
+    "SiteMapGenerationFile":"./CsvData/google_api_generation_file.csv",
+    "SiteMap":"./CsvData/sitemap.csv",
+    "database_name":"./DB/restaurant_reviews.db",
+    "sitemap_db_name":"./DB/sitemap.db",
+    "db_to_csv":"./CsvData/completeRun.csv"
+    
+}

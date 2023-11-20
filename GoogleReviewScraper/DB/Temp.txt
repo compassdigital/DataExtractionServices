@@ -1,0 +1,1 @@
+This file is just here to create the DB folder where all databases will be saved

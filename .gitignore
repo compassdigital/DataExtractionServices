@@ -1,0 +1,9 @@
+#csv data with saved backed up database
+GoogleReviewScraper/CSVData/completeRun.csv
+
+#database
+GoogleReviewScraper/DB/restaurant_reviews.db
+GoogleReviewScraper/DB/sitemap.db
+
+#generation files
+GoogleReviewScraper/CSVData/google_api_generation_file.csv
